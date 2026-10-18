@@ -1,0 +1,6 @@
+# 原始媒體與個人憑證不進 repo
+data/raw/
+*.cookies.txt
+cookies.txt
+__pycache__/
+.DS_Store
